@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "pt-BR"
 title                    : "Nícolas Kvint"
 title_separator          : "-"
 name                     : &name "Nícolas Kvint"

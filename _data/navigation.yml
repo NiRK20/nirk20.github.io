@@ -15,8 +15,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Lattes"
+    url: http://lattes.cnpq.br/2349532013760072
     
   - title: "Guide"
     url: /markdown/
